@@ -1,0 +1,5 @@
+"{\"name\": \"Necklaces\"}"
+"{\"name\": \"Bracelets\"}"
+"{\"name\": \"Blouses\"}"
+"{\"name\": \"Zips\"}"
+"{\"name\": \"Trening\"}"

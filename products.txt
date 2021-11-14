@@ -1,0 +1,2 @@
+"{\"length\": 10, \"name\": \"Necklace\", \"material\": \"gold\", \"color\": \"blue\", \"weight\": 12}"
+"{\"diameter\": 10, \"name\": \"Earring\", \"material\": \"plastic\", \"color\": \"pink\", \"weight\": 12}"
